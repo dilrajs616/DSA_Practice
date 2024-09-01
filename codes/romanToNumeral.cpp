@@ -41,3 +41,8 @@ public:
         return num;
     }
 };
+
+int main() {
+    
+    return 0;
+}
